@@ -185,3 +185,9 @@ Google Playで内部テストを行った際に、ジオコーダーのAPIが動
 - [緯度経度から2地点間の距離を計算する！Google方式とヒュベニ式・表計算ソフトで計算できる・GPSデータも使える – 私は何から出来ているのか？](https://komoriss.com/calculate-distance-between-two-points-from-latitude-and-longitude/)
 - [Python で2点の緯度経度から距離を計測する方法 - GIS奮闘記](https://www.gis-py.com/entry/py-latlon2distance#google_vignette)
 
+
+### SQLite
+- [SQLiteでのデータ永続化 | Flutter Doc JP](https://flutter.ctrnost.com/logic/sqlite/)
+- [sqflite | Flutter package](https://pub.dev/packages/sqflite)
+- [ローカルにデータを保存 | Flutterで始めるアプリ開発](https://www.flutter-study.dev/recipe/local-data)
+- [【Flutter】ローカルデータベース | SQLite使い方を解説!（コピペOK）](https://yakiimosan.com/flutter-sqlite-basic/)
